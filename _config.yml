@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Econote.
+tagline:             'edit by Xiaolong'
+description:         'About Economics.'
 url:                 'http://elotroalex.github.io'
 baseurl:             '/ed'
 
