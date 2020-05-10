@@ -14,8 +14,8 @@ author: Alex Gil
 
 ## Microeconomics
 
-[关于近日鲜果价格大幅上涨原因的浅析](chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
-[走楼梯更快，为什么大多数人还是排队坐电梯](chenxiaolong2019.github.io/ed/doucument/走楼梯更快，为什么大多数人还是排队坐电梯.pdf）
+--[关于近日鲜果价格大幅上涨原因的浅析](chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
+--[走楼梯更快，为什么大多数人还是排队坐电梯](chenxiaolong2019.github.io/ed/doucument/走楼梯更快，为什么大多数人还是排队坐电梯.pdf）
 
 ---
 
