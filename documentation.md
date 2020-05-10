@@ -14,15 +14,15 @@ author: Alex Gil
 
 ## Microeconomics
 
-[关于近日鲜果价格大幅上涨原因的浅析](chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
+[关于近日鲜果价格大幅上涨原因的浅析](http://chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
 
-[走楼梯更快，为什么大多数人还是排队坐电梯](chenxiaolong2019.github.io/ed/doucument/走楼梯更快，为什么大多数人还是排队坐电梯.pdf)
+[走楼梯更快，为什么大多数人还是排队坐电梯](htrp://chenxiaolong2019.github.io/ed/doucument/走楼梯更快，为什么大多数人还是排队坐电梯.pdf)
 
 ---
 
-## Installing Ed: Easy
+## The Economics of Money
 
-The easy way to do this is not necessarily the more robust, and may simply not work on your system. The easy way could also be called the 'lucky' way. It will work if your system is ready for Ed. Two major caveats to keep in mind if you go the easy route: a) You may run into problems later when some Ed components need updating; and, b) You may run into conflicts if you run several Ruby environments for different projects. That said, if you just want to quickly try Ed, and you don't run into problems installing, this is perhaps the best approach.
+[关于美联储量化宽松政策的分析](http://chenxiaolong2019.github.io/ed/document/关于美联储量化宽松政策的分析.pdf)
 
 
 If you're using a Mac, make sure you have the appropriate version of [XCode command line tools](https://developer.apple.com/xcode/download/) for your OSX. Using the terminal's `cd` command, switch to the directory where you want to install your project. Once inside the folder, you are ready to download and start using Ed. Enter each of these lines into your terminal (remember to ignore the `$`):
