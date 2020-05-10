@@ -32,7 +32,7 @@ Updating...
 
 ---
 
-## Financial analysis
+## Financial Analysis
 
 [财务分析方法实训报告](http://chenxiaolong2019.github.io/ed/document/财务分析方法实训报告.pdf)
 
