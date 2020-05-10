@@ -12,13 +12,10 @@ author: Alex Gil
 
 ---
 
-## Prerequisites
+## Microeconomics
 
-This documentation was built with beginners in mind, but has the necessary information for more seasoned producers.
-
-To install and use Ed you will be using your terminal. If you need a refresher, I highly recommend "[The Command Line Crash Course](http://cli.learncodethehardway.org/book/)." Working knowledge of HTML and CSS is also taken for granted. If you're new to HTML and CSS, you may want to check out the relevant courses on [codecademy.com](https://www.codecademy.com/learn/web).
-
-Jekyll does not run very well on Windows machines for now. If you are using Windows, this theme won't work for you, but we hope that you simply deploy our principles, and parts of our stylesheet, on a system like [Hugo](https://gohugo.io/), which does work on Windows.
+[关于近日鲜果价格大幅上涨原因的浅析](chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
+[走楼梯更快，为什么大多数人还是排队坐电梯](chenxiaolong2019.github.io/ed/doucument/走楼梯更快，为什么大多数人还是排队坐电梯.pdf）
 
 ---
 
