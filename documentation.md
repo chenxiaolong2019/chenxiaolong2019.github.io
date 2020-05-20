@@ -32,6 +32,11 @@ Updating...
 
 ---
 
+## Public Finance
+[新冠疫情下,财政在稳定农产品生产中的作用](http://chenxiaolong2019.github.io/ed/document/在新冠疫情下财政在稳定农产品生产中的作用.pdf)
+
+---
+
 ## Financial Analysis
 
 [财务分析方法实训报告](http://chenxiaolong2019.github.io/ed/document/财务分析方法实训报告.pdf)
