@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: page
 title: 关于跑步
 author: Xiaolong
 editor: Xiaolong
