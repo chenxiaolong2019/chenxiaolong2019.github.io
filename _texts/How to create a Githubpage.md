@@ -14,12 +14,14 @@ You can use GitHub Pages to host a website about yourself, your organization, or
 {:toc}
 
 ---
-
 ## Create a Github account
+
+Login [Github](https://github.com/), click "Sign up", complete your informations.
 
 ---
 
 ## Find a model and 'Fork' it
+Login [Jekyllthemes](http://jekyllthemes.org ), find a themes you perfer.
 
 ---
 
