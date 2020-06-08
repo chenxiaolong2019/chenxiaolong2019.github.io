@@ -50,8 +50,11 @@ Updating...
 ---
 
 ## Economic History 
-
 [是什么造成了东西方社会形态的不同](http://chenxiaolong2019.github.io/ed/document/是什么造成了东西方社会形态的不同.pdf)
 
+---
+
+## Statistics
+Calculation Form (Excel)
 
 ---
