@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-author: Alex Gil
+author: ChenXiaolong
 ---
 
 ## Contents
@@ -45,7 +45,7 @@ Updating...
 ## Financial Analysis
 
 [财务分析方法实训报告](http://chenxiaolong2019.github.io/ed/document/财务分析方法实训报告.pdf)
-([计算与图表](http://chenxiaolong2019.github.io/ed/document/Financial_analysis_report/财务分析计算与图表.rar))
+> ([附件：原始数据、计算与图表](http://chenxiaolong2019.github.io/ed/document/Financial_analysis_report/财务分析计算与图表.rar))
 
 ---
 
