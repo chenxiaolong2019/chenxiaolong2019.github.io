@@ -22,7 +22,7 @@ author: ChenXiaolong
 
 ## Macroeconomics
 
-Updating...
+[索洛经济增长模型的推导](http://chenxiaolong2019.github.io/ed/document/索洛经济增长模型的推导.md)
 
 ---
 
