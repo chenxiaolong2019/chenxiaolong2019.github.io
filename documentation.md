@@ -38,6 +38,8 @@ author: ChenXiaolong
 
 [关于美联储量化宽松政策的分析](http://chenxiaolong2019.github.io/ed/document/关于美联储量化宽松政策的分析.pdf)
 
+[“72法则”的推导](http://chenxiaolong2019.github.io/ed/document/72法则的推导.md)
+
 ---
 
 ## Public Finance
