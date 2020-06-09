@@ -26,6 +26,12 @@ Updating...
 
 ---
 
+## Marxist Political Economy
+
+[经济全球化发展的趋势](http://chenxiaolong2019.github.io/ed/document/经济全球化发展的趋势.pdf)
+
+---
+
 ## The Economics of Money
 
 [关于美联储量化宽松政策的分析](http://chenxiaolong2019.github.io/ed/document/关于美联储量化宽松政策的分析.pdf)
