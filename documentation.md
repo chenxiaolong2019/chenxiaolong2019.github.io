@@ -54,8 +54,8 @@ Updating...
 
 [供求均衡角度对北宋经济发展之路的再设计](http://chenxiaolong2019.github.io/ed/document/供求均衡角度对北宋经济发展之路的再设计.pdf)
 > 参考资料：[《中国古代经济史断代研究之五——宋代经济史（上、下册）》](http://chenxiaolong2019.github.io/ed/document/中国古代经济史断代研究之五_宋代经济史（上_下册）.pdf)
-> &emsp[《唐宋的钱荒论及其实质》何平](http://chenxiaolong2019.github.io/ed/document/唐宋的_钱荒论_及其实质_何平.pdf)
-> &emsp[《北宋经济发展中存在的几个问题》何应忠](http://chenxiaolong2019.github.io/ed/document/北宋经济发展中存在的几个问题_何应忠.pdf)
+> [《唐宋的钱荒论及其实质》何平](http://chenxiaolong2019.github.io/ed/document/唐宋的_钱荒论_及其实质_何平.pdf)
+> [《北宋经济发展中存在的几个问题》何应忠](http://chenxiaolong2019.github.io/ed/document/北宋经济发展中存在的几个问题_何应忠.pdf)
 
 ---
 
