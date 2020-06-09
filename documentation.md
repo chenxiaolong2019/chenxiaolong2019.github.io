@@ -72,42 +72,13 @@ author: ChenXiaolong
 ## Statistics
 Calculation Form (Excel)
 
-**数据的概括性度量**
-- [数据的概括性度量]()
-
-**参数估计**
-- [一个参数总体均值的区间估计]()
-- [一个参数总体方差的区间估计]()
-- [一个总体比例的区间估计]()
-- [两个总体均值之差的区间估计]()
-- [估计总体均值时样本量的确定]()
-
-**假设检验**
-- [一个总体参数的检验]
-- [两个总体参数的检验]
-
-**分类数据分析**
-- [分类数据的独立性检验]
-- [分类数据的拟合优度检验]
-
-**一元回归分析**
-- [一元线性相关的散点图和相关系数的计算]
-- [一元相关系数的检验]
-- [一元回归分析]
-
-**多元回归分析**
-- [多元回归分析]
-
-**时间序列分析和预测**
-- [线性趋势预测]
-- [指数平滑预测]
-- [指数曲线趋势预测]
-- [多阶曲线趋势预测]
-- [复合时间序列的分解和预测]
-- [复合时间序列的季节指数计算]
-
-**指数分析**
-- [平均数指数体系分析]
-- [总量指数体系分析]
+- [数据的概括性度量](http://chenxiaolong2019.github.io/ed/document/Statistics/数据的概括性度量.zip)
+- [参数估计](http://chenxiaolong2019.github.io/ed/document/Statistics/参数估计.zip)
+- [假设检验](http://chenxiaolong2019.github.io/ed/document/Statistics/假设检验.zip)
+- [分类数据分析](http://chenxiaolong2019.github.io/ed/document/Statistics/分类数据分析.zip)
+- [一元回归分析](http://chenxiaolong2019.github.io/ed/document/Statistics/一元回归分析.zip)
+- [多元回归分析](http://chenxiaolong2019.github.io/ed/document/Statistics/多元回归分析.zip)
+- [时间序列分析和预测](http://chenxiaolong2019.github.io/ed/document/Statistics/时间序列分析和预测.zip)
+- [指数分析](http://chenxiaolong2019.github.io/ed/document/Statistics/指数分析.zip)
 
 ---
