@@ -30,6 +30,8 @@ Updating...
 
 [经济全球化发展的趋势](http://chenxiaolong2019.github.io/ed/document/经济全球化发展的趋势.pdf)
 
+[经济全球化带来的新问题及其解决的方法](http://chenxiaolong2019.github.io/ed/document/经济全球化带来的新问题及其解决的方法.pdf)
+
 ---
 
 ## The Economics of Money
