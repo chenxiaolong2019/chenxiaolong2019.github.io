@@ -4,7 +4,7 @@ title: About
 ---
 <hr>
 
-## About the "Economics"
+## About the Economics
 
 Economics (/ɛkəˈnɒmɪks, iːkə-/) is the social science that studies the production, distribution, and consumption of goods and services.
 
@@ -14,7 +14,7 @@ Other broad distinctions within economics include those between positive economi
 
 Economic analysis can be applied throughout society, in real estate, business, finance, health care, and government. Economic analysis is sometimes also applied to such diverse subjects as crime, education, the family, law, politics, religion, social institutions, war, science, and the environment.
 
-From Wikipedia-Economics[https://en.m.wikipedia.org/wiki/Economics]
+From Wikipedia-[Economics](https://en.m.wikipedia.org/wiki/Economics)
 
 <hr>
 
