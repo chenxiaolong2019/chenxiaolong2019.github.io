@@ -27,7 +27,7 @@ Logarithm on both sides
 
 <img src="http://latex.codecogs.com/gif.latex?ln2=t\times ln(1+r)"> 
 
-<img src="http://latex.codecogs.com/gif.latex?\\frac{ln2}{ln(1+r)}=t"> 
+<img src="http://latex.codecogs.com/gif.latex?\frac{ln2}{ln(1+r)}=t"> 
 
 According to Taylor Series Approximation
 
@@ -39,6 +39,6 @@ also because
 
 so
 
-<img src="http://latex.codecogs.com/gif.latex?\\frac{0.69}{r}\approx t"> 
+<img src="http://latex.codecogs.com/gif.latex?\frac{0.69}{r}\approx t"> 
 
 End
