@@ -18,7 +18,7 @@ From Wikipedia-[Economics](https://en.m.wikipedia.org/wiki/Economics)
 
 <hr>
 
-## About Me
+## Personal information
 
 - Name: Chen Xiaolong
 
