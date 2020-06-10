@@ -32,12 +32,12 @@ author: Chen
 根据生产规模报酬不变的假定，有：
 
 <center>
-   <img src="http://latex.codecogs.com/gif.latex?\\lambda Y=F(\lambda N,\lambda K)"> 
+   <img src="http://latex.codecogs.com/gif.latex?\lambda Y=F(\lambda N,\lambda K)"> 
 </center>
 
 对任何正数*λ*都成立，特别地，取*λ = 1/N*，上式变为
 <center>
-    <img src="http://latex.codecogs.com/gif.latex?\\frac{Y}{N}=F(1,\frac{K}{N})"> 
+    <img src="http://latex.codecogs.com/gif.latex?\frac{Y}{N}=F(1,\frac{K}{N})"> 
 </center>
 
 为说明方便起见，假定全部人口参与生产，那么上式说明，人均产量*Y/N*只依赖于*K/N*。用*y*表示人均产量，即*y=Y/N*，*k*表示人均资本，即*k=K/N*，则生产函数可表示为下述人均形式：
