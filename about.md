@@ -14,7 +14,7 @@ Other broad distinctions within economics include those between positive econom
 
 Economic analysis can be applied throughout society, in real estate, business, finance, health care, and government. Economic analysis is sometimes also applied to such diverse subjects as crime, education, the family, law, politics, religion, social institutions, war, science, and the environment.
 
-From WIKIPEDIA-[Economics](https://en.m.wikipedia.org/wiki/Economics)
+From Widipedia-[Economics](https://en.m.wikipedia.org/wiki/Economics)
 
 <hr>
 
