@@ -16,7 +16,8 @@ The future value (FV) of periodic compound interest is:
 
 \\FV = PV  (1+r)^t\\
 
-<img src="https://www.zhihu.com/equation/tex=\frac{a}{b}" eeimg="1">
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
 PV is the present value, t is the number of periods, and r is the interest rate for each period.
 
 When the investment doubles, $$FV=2PV$$. After substituting the above formula, it can be simplified to:
