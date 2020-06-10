@@ -22,7 +22,7 @@ author: ChenXiaolong
 
 ## Macroeconomics
 
-[索洛经济增长模型的推导](http://chenxiaolong2019.github.io/ed/document/索洛经济增长模型的推导.md)
+[索洛经济增长模型的推导](http://chenxiaolong2019.github.io/ed/texts/Derivation%20of%20neoclassical%20growth%20model/)
 
 ---
 
