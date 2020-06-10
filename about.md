@@ -4,9 +4,9 @@ title: About
 ---
 <hr>
 
-## About the "Econote"
+## About the "Economics"
 
-Economics (/ɛkəˈnɒmɪks, iːkə-/) is the social science that studies the production, distribution, and consumption of goods and services.
+Economics (/ɛkəˈnɒmɪks, iːkə-/) is the social science that studies the production, distribution, and consumption of goods and services.
 
 Economics focuses on the behaviour and interactions of economic agents and how economies work. Microeconomics analyzes basic elements in the economy, including individual agents and markets, their interactions, and the outcomes of interactions. Individual agents may include, for example, households, firms, buyers, and sellers. Macroeconomics analyzes the economy as a system where production, consumption, saving, and investment interact, and factors affecting it: employment of the resources of labour, capital, and land, currency inflation, economic growth, and public policies that have impact on these elements.
 
