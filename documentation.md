@@ -38,7 +38,7 @@ author: ChenXiaolong
 
 [关于美联储量化宽松政策的分析](http://chenxiaolong2019.github.io/ed/document/关于美联储量化宽松政策的分析.pdf)
 
-[“72法则”的推导](http://chenxiaolong2019.github.io/ed/_texts/Derivation%20of%20"72%20Law".md)
+[“72法则”的推导](http://chenxiaolong2019.github.io/ed/_texts/Derivation%20of%20"72%20Law"/)
 
 ---
 
