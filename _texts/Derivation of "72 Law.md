@@ -14,7 +14,7 @@ The so-called "72 law" is to calculate interest with 1% compound interest. After
 ## Principle
 The future value (FV) of periodic compound interest is:
 
-//FV = PV  (1+r)^t//
+\\FV = PV  (1+r)^t\\
 
 PV is the present value, t is the number of periods, and r is the interest rate for each period.
 
