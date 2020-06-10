@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Derivation of "72 Law 
+title: Derivation of "72"Law 
 author: Chen Xiaolong
 ---
 
