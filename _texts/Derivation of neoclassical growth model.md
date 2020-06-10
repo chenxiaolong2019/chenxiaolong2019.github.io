@@ -19,7 +19,9 @@ author: Chen
 
 在没有技术进步的情况下，该经济的生产函数为：
 
-$$Y=F(N,K)$$
+<center>
+	<img src="http://latex.codecogs.com/gif.latex?Y=F(N,K)"> 
+</center>
 
 式中，Y为总产出；N和K分别为总量劳动和总量资本，它们均随时间的推移而变化，从而Y也随时间的推移而变化。
 
