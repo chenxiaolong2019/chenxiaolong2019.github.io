@@ -3,7 +3,6 @@ layout: page
 title: Derivation of "72 Law 
 author: Chen Xiaolong
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Derivation of "72 Law"
 
 ## What is "72 Law"
@@ -14,6 +13,8 @@ The so-called "72 law" is to calculate interest with 1% compound interest. After
 The future value (FV) of periodic compound interest is:
 
 $$FV = PV  (1+r)^t$$
+<img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式">
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 PV is the present value, t is the number of periods, and r is the interest rate for each period.
 
