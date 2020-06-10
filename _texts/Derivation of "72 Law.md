@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Derivation of "72 Law 
