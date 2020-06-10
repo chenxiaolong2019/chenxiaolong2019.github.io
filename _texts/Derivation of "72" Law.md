@@ -19,26 +19,26 @@ The future value (FV) of periodic compound interest is:
 
 PV is the present value, t is the number of periods, and r is the interest rate for each period.
 
-When the investment doubles, <img src="http://chenxiaolong2019.github.io/ed/document/image/2.png">. After substituting the above formula, it can be simplified to:
+When the investment doubles, <img src="http://latex.codecogs.com/gif.latex?ln2=t\times ln(1+r)"> . After substituting the above formula, it can be simplified to:
 
-$$2 = (1+r)^t$$
+<img src="http://latex.codecogs.com/gif.latex?2 = (1+r)^t"> 
 
 Logarithm on both sides
 
-$$ln2=t\times ln(1+r)$$
+<img src="http://latex.codecogs.com/gif.latex?ln2=t\times ln(1+r)"> 
 
-$$\frac{ln2}{ln(1+r)}=t$$
+<img src="http://latex.codecogs.com/gif.latex?\\frac{ln2}{ln(1+r)}=t"> 
 
 According to Taylor Series Approximation
 
-$$ln(1+r) \approx r$$
+<img src="http://latex.codecogs.com/gif.latex?ln(1+r) \approx r"> 
 
 also because
 
-$$ln2\approx0.69$$
+<img src="http://latex.codecogs.com/gif.latex?ln2\approx0.69"> 
 
 so
 
-$$\frac{0.69}{r}\approx t$$
+<img src="http://latex.codecogs.com/gif.latex?\\frac{0.69}{r}\approx t"> 
 
 End
