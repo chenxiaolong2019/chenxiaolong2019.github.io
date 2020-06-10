@@ -13,9 +13,8 @@ The so-called "72 law" is to calculate interest with 1% compound interest. After
 ## Principle
 The future value (FV) of periodic compound interest is:
 
-$$FV=PV(1+r)^t$$
+<center>![](http://latex.codecogs.com/gif.latex?FV=PV(1+r)^t)</center>
 
-![](http://latex.codecogs.com/gif.latex?FV=PV(1+r)^t)
 PV is the present value, t is the number of periods, and r is the interest rate for each period.
 
 When the investment doubles, <img src="http://chenxiaolong2019.github.io/ed/document/image/2.png">. After substituting the above formula, it can be simplified to:
