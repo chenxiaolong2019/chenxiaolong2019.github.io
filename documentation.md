@@ -79,6 +79,6 @@ Calculation Form (Excel)
 - [一元回归分析](http://chenxiaolong2019.github.io/ed/document/Statistics/一元回归分析.zip)
 - [多元回归分析](http://chenxiaolong2019.github.io/ed/document/Statistics/多元回归分析.zip)
 - [时间序列分析和预测](http://chenxiaolong2019.github.io/ed/document/Statistics/时间序列分析和预测.zip)
-- [指数分析](http://chenxiaolong2019.github.io/ed/document/Statistics/指数分析.zip)
+- [指数分析](http://chenxiaolong2019.github.io/ed/document/Statistics/指数分析.rar)
 
 ---
