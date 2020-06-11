@@ -37,6 +37,11 @@ author: Chen
 
 ### 人均收入与人均储蓄曲线
 
+<center>
+    <img src="http://chenxiaolong2019.github.io/ed/document/image/geogebra-export.png"> 
+</center>
+
+> 稻田条件
 
 ## 索洛稳态增长条件
 
