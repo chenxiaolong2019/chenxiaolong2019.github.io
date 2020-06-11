@@ -3,20 +3,33 @@ layout: page
 title: 索洛增长模型的推导
 author: Chen
 ---
-
 *参考资料 《西方经济学——宏观部分》第七版 高鸿业，《西方经济学 下册》马克思主义理论研究和建设工程*
 
 ## 基本假定与思路
 新古典增长模型，也被称为索洛增长模型是建立在一个新古典生产方程体系之上，强调了一个封闭的没有政府部门的经济中储蓄、人口增长及技术进步对增长的作用，它关注的焦点是经济增长的直接原因。新古典增长模型的基本假定是：
 > (1)经济由一个部门组成，该部门生产一种既可用于投资也可用于消费的商品
 
-> (2)该经济为不存在国际贸易的封闭经济，且政府部门被忽略
+> (2)该经济为不存在国际贸易的**封闭经济**，且政府部门被忽略
 
-> (3)生产的规模报酬不变
+> (3)**技术水平(z)既定**
 
-> (4)该经济的技术进步、人口增长及资本折旧的速度都由外生因素决定
+> (3)生产的**规模报酬不变**,**Y=Z × F(K.N)**
 
-> (5)社会储蓄函数为S=sY，s为储蓄率
+>>说明:   <img src="http://latex.codecogs.com/gif.latex?\xi \cdot zf(k)=\xi \cdot f(k)"> 
+>> <img src="http://latex.codecogs.com/gif.latex?Y=Z\cdot F(K,N)"> 
+>> 有<img src="http://latex.codecogs.com/gif.latex?aY=Z\cdot F(aK,aN)"> ,令<img src="http://latex.codecogs.com/gif.latex?a=\frac{1}{N}"> 
+>> <img src="http://latex.codecogs.com/gif.latex?Y\cdot \frac{1}{N}=Z\cdot F(K\cdot \frac{1}{N},N\cdot \frac{1}{N})"> 
+>> <img src="http://latex.codecogs.com/gif.latex?$y=z\cdot f(k,1)=zf(k)$$"> $,*k*为人均资本,人均收入是人均资本的函数
+
+> (4)社会储蓄函数为S=ξY，ξ为储蓄率
+>> 说明
+>> <img src="http://latex.codecogs.com/gif.latex?s=\xi \cdot y=\xi \cdot zf(k)"> 
+>> z不变则,<img src="http://latex.codecogs.com/gif.latex?\xi \cdot zf(k)=\xi \cdot f(k)"> 
+>(5)人口是劳动力数,且人口增长率为常数n
+>(6)资本折旧率δ为常数
+
+## 人均收入与人均储蓄函数
+
 
 
 ## 没有技术进步的新古典增长模型
