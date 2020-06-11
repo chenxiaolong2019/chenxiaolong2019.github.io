@@ -15,17 +15,19 @@ author: Chen
 
 > (3)生产的**规模报酬不变**,**Y=Z × F(K.N)**
 
->>说明:   <img src="http://latex.codecogs.com/gif.latex?\xi \cdot zf(k)=\xi \cdot f(k)"> 
+>>说明: 
 >> <img src="http://latex.codecogs.com/gif.latex?Y=Z\cdot F(K,N)"> 
->> 有<img src="http://latex.codecogs.com/gif.latex?aY=Z\cdot F(aK,aN)"> ,令<img src="http://latex.codecogs.com/gif.latex?a=\frac{1}{N}"> 
+>> 有<img src="http://latex.codecogs.com/gif.latex?aY=Z\cdot F(aK,aN)"> 令<img src="http://latex.codecogs.com/gif.latex?a=\frac{1}{N}"> 
 >> <img src="http://latex.codecogs.com/gif.latex?Y\cdot \frac{1}{N}=Z\cdot F(K\cdot \frac{1}{N},N\cdot \frac{1}{N})"> 
->> <img src="http://latex.codecogs.com/gif.latex?$y=z\cdot f(k,1)=zf(k)$$"> $,*k*为人均资本,人均收入是人均资本的函数
+>> <img src="http://latex.codecogs.com/gif.latex?y=z\cdot f(k,1)=zf(k)"> ,*k*为人均资本,人均收入是人均资本的函数
 
 > (4)社会储蓄函数为S=ξY，ξ为储蓄率
 >> 说明
 >> <img src="http://latex.codecogs.com/gif.latex?s=\xi \cdot y=\xi \cdot zf(k)"> 
 >> z不变则,<img src="http://latex.codecogs.com/gif.latex?\xi \cdot zf(k)=\xi \cdot f(k)"> 
+
 >(5)人口是劳动力数,且人口增长率为常数n
+
 >(6)资本折旧率δ为常数
 
 ## 人均收入与人均储蓄函数
