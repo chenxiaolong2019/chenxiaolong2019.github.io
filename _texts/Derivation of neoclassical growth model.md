@@ -13,7 +13,7 @@ author: Chen
 
 > (3)**技术水平(z)既定**
 
-> (3)生产的**规模报酬不变**,**Y=Z × F(K.N)**
+> (3)生产的**规模报酬不变**,**Y=Z × F(K,N)**
 
 >>说明: 
 >> <img src="http://latex.codecogs.com/gif.latex?Y=Z\cdot F(K,N)"> 
@@ -42,7 +42,7 @@ author: Chen
 </center>
 
 > 稻田条件<br>
-1. *y= f(k),f(0)=0,f\dot (k)＞0，斜率为正，f\ddot (k)＜0，随着k的增加所带来的y的增量递减*
+1. y= f(k),f(0)=0 <img src="http://latex.codecogs.com/gif.latex?f\dot (k)>0"> 斜率为正,<img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减
 2.  <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
 3. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
 
