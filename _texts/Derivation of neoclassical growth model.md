@@ -61,19 +61,12 @@ author: Chen
 
 联立<img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k \atop \frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 
-\begin{cases}
-a_1x+b_1y+c_1z=d_1\\
-a_2x+b_2y+c_2z=d_2\\
-a_3x+b_3y+c_3z=d_3\\
-\end{cases}
-
+${n+1 \choose k}={n \choose k}+{n \choose k-1}$
 
 得
-为说明方便起见，假定全部人口参与生产，那么上式说明，人均产量*Y/N*只依赖于*K/N*。用*y*表示人均产量，即*y=Y/N*，*k*表示人均资本，即*k=K/N*，则生产函数可表示为下述人均形式：
+<img src="http://latex.codecogs.com/gif.latex?\Delta k=sy-(n-\delta )k">
+<img src="http://latex.codecogs.com/gif.latex?\Delta k=0">
+<img src="http://latex.codecogs.com/gif.latex?sy=(n-\delta )k">
 
-<center>
-   <img src="http://latex.codecogs.com/gif.latex?y=f(k)"> 
-</center>
-
-式中，*f(k)=F(1,k)*。
+(Δk人均资本增量，sy人均资本储蓄）
 
