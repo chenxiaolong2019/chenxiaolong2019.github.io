@@ -59,6 +59,9 @@ author: Chen
     <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 </center>
 
+联立<img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k \atop \frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
+
+得
 为说明方便起见，假定全部人口参与生产，那么上式说明，人均产量*Y/N*只依赖于*K/N*。用*y*表示人均产量，即*y=Y/N*，*k*表示人均资本，即*k=K/N*，则生产函数可表示为下述人均形式：
 
 <center>
