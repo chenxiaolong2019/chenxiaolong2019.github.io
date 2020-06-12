@@ -60,9 +60,6 @@ author: Chen
 </center>
 
 联立<img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k \atop \frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
-
-${n+1 \choose k}={n \choose k}+{n \choose k-1}$
-
 得
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=sy-(n-\delta )k">
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=0">
