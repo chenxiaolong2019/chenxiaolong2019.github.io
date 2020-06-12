@@ -53,15 +53,15 @@ author: Chen
 <img src="http://latex.codecogs.com/gif.latex?I=\Delta K+\delta K"> 
 <img src="http://latex.codecogs.com/gif.latex?\Delta K=I=\delta K=sY-\delta K"> (I=S=sY)
 
-根据生产规模报酬不变的假定，有：
-
 <center>
    <img src="http://latex.codecogs.com/gif.latex?\lambda Y=F(\lambda N,\lambda K)"> 
 </center>
 
 对任何正数*λ*都成立，特别地，取*λ = 1/N*，上式变为
 <center>
-    <img src="http://latex.codecogs.com/gif.latex?\frac{Y}{N}=F(1,\frac{K}{N})"> 
+    <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\dot frac{Y}{N}-\delta \cdot frac{K}{N}=sy-\delta k······(1)"> 
+    <img src="http://latex.codecogs.com/gif.latex?k\dot =frac{K}{N}\dot =K\dot -N\dot =frac{\delta K}{N}-frac{\delta N}{N}"> 
+    <img src="http://latex.codecogs.com/gif.latex?frac{\delta K}{N}=frac{\delta k}{k}\cdot frac{K}{N}+n\cdot frac{K}{N}=\Delta k+nk······(2)"> 
 </center>
 
 为说明方便起见，假定全部人口参与生产，那么上式说明，人均产量*Y/N*只依赖于*K/N*。用*y*表示人均产量，即*y=Y/N*，*k*表示人均资本，即*k=K/N*，则生产函数可表示为下述人均形式：
