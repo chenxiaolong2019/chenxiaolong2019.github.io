@@ -19,7 +19,7 @@ author: Chen
 >> <img src="http://latex.codecogs.com/gif.latex?Y=Z\cdot F(K,N)"> 
 >> 有<img src="http://latex.codecogs.com/gif.latex?aY=Z\cdot F(aK,aN)"> 令<img src="http://latex.codecogs.com/gif.latex?a=\frac{1}{N}"> 
 >> <img src="http://latex.codecogs.com/gif.latex?Y\cdot \frac{1}{N}=Z\cdot F(K\cdot \frac{1}{N},N\cdot \frac{1}{N})"> 
->> <img src="http://latex.codecogs.com/gif.latex?y=z\cdot f(k,1)=zf(k)"> ,*k*为人均资本,人均收入是人均资本的函数
+>> <img src="http://latex.codecogs.com/gif.latex?y=z\cdot f(k,1)=zf(k)"> *k*为人均资本,人均收入是人均资本的函数
 
 > (4)社会储蓄函数为S=ξY，ξ为储蓄率
 >> 说明
@@ -42,7 +42,7 @@ author: Chen
 </center>
 
 > 稻田条件<br>
-1. *y= f(k),f(0)=0,f'(k)＞0，斜率为正，f''(k)＜0，随着k的增加所带来的y的增量递减*
+1. *y= f(k),f(0)=0,f\dot (k)＞0，斜率为正，f\ddot (k)＜0，随着k的增加所带来的y的增量递减*
 2.  <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
 3. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
 
