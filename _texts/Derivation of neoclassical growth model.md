@@ -41,9 +41,12 @@ author: Chen
     <img src="http://chenxiaolong2019.github.io/ed/document/image/geogebra-export.png" style="zoom:20%"> 
 </center>
 
-> 稻田条件
+> 稻田条件<br>
+1. *y= f(k),f(0)=0,f'(k)＞0，斜率为正，f''(k)＜0，随着k的增加所带来的y的增量递减*
+2.  <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
+3. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
 
-## 索洛稳态增长条件
+## 索洛稳态增长条件（经济呈现一种收敛式的增长）
 
 在没有技术进步的情况下，该经济的生产函数为：
 
