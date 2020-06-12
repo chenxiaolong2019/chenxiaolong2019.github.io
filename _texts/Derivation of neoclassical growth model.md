@@ -68,8 +68,9 @@ author: Chen
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=sy-(n-\delta )k">
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=0">
 <img src="http://latex.codecogs.com/gif.latex?sy=(n-\delta )k">
-(**Δk=sy-(n+δ)k**是人均资本增量的决定，Δk人均资本增量，sy人均储蓄，人均储蓄要满足资本折旧的需要sk，要为新增人口投资nk，剩下的余额必会导致人均资本的增加）
+(**Δk=sy-(n+δ)k**  是人均资本增量的决定，Δk人均资本增量，sy人均储蓄，人均储蓄要满足资本折旧的需要sk，要为新增人口投资nk，剩下的余额必会导致人均资本的增加）
 
 Δk＞0，人均资本在增加，经济没有稳态增长。经济稳态增长，要求Δk=0，人均资本时常数，是收敛的，有<br>
-                                                **sy=(n+d)k (经济稳态增长条件)**
-
+<center>
+   sy=(n+d)k (经济稳态增长条件)
+<\center>
