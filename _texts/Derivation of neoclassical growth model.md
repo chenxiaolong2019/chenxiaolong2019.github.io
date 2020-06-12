@@ -43,10 +43,10 @@ author: Chen
 
 > 稻田条件<br>
 1. y= f(k),f(0)=0 
-2. <img src="http://latex.codecogs.com/gif.latex?f\dot (k)>0"> 斜率为正
+2. <img src="http://latex.codecogs.com/gif.latex?\dot{f}(k)>0"> 斜率为正
 3. <img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减
-4. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
-5. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
+4. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{\dot{f}(k)=\infty }"> 
+5. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{\dot{f}(k)=0 }"> 
 
 ## 索洛稳态增长条件（经济呈现一种收敛式的增长）
 经济均衡时，由*C+S=Y=S+I* ，有<img src="http://latex.codecogs.com/gif.latex?I=S"> 
@@ -54,8 +54,8 @@ author: Chen
 <img src="http://latex.codecogs.com/gif.latex?\Delta K=I=\delta K=sY-\delta K"> (I=S=sY)
 
 <center>
-    <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot frac{K}{N}=sy-\delta k"> 
-    <img src="http://latex.codecogs.com/gif.latex?k\dot =\frac{K}{N}\dot =K\dot -N\dot =\frac{\delta K}{N}-frac{\delta N}{N}"> 
+    <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k"> 
+    <img src="http://latex.codecogs.com/gif.latex?\dot{k}=\dot{\frac{K}{N}} =\dot{K}-\dot{N] =\frac{\delta K}{N}-\frac{\delta N}{N}"> 
     <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 </center>
 
