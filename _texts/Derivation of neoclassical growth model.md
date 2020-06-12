@@ -55,7 +55,7 @@ author: Chen
 
 <center>
     <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k"> 
-    <img src="http://latex.codecogs.com/gif.latex?\dot{k}=\dot{\frac{K}{N}} =\dot{K}-\dot{N] =\frac{\delta K}{N}-\frac{\delta N}{N}"> 
+    <img src="http://latex.codecogs.com/gif.latex?\dot{k} = \dot{(\frac{K}{N})} =\dot{K} - \dot{N} =\frac{\delta K}{N}- \frac{\delta N}{N}"> 
     <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 </center>
 
