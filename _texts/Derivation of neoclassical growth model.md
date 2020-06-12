@@ -49,10 +49,9 @@ author: Chen
 5. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
 
 ## 索洛稳态增长条件（经济呈现一种收敛式的增长）
-经济均衡时，由C+S=Y=S+I<img src="http://latex.codecogs.com/gif.latex?I=S"> 
+经济均衡时，由*C+S=Y=S+I* ，有<img src="http://latex.codecogs.com/gif.latex?I=S"> 
 <img src="http://latex.codecogs.com/gif.latex?I=\Delta K+\delta K"> 
 <img src="http://latex.codecogs.com/gif.latex?\Delta K=I=\delta K=sY-\delta K"> (I=S=sY)
-
 
 根据生产规模报酬不变的假定，有：
 
