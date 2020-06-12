@@ -59,8 +59,9 @@ author: Chen
     <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 </center>
 
+联立
 <center>
-联立<img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k \atop \frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
+    <img src="http://latex.codecogs.com/gif.latex?\frac{\Delta K}{N}=s\cdot \frac{Y}{N}-\delta \cdot \frac{K}{N}=sy-\delta k \atop \frac{\Delta K}{N}=\frac{\Delta k}{k}\cdot \frac{K}{N}+n\cdot \frac{K}{N}=\Delta k+nk"> 
 </center>
 得
 
@@ -71,5 +72,5 @@ author: Chen
 
 Δk＞0，人均资本在增加，经济没有稳态增长。经济稳态增长，要求Δk=0，人均资本时常数，是收敛的，有<br>
 <center>
-    **sy=(n+d)k 经济稳态增长条件**
+    sy=(n+d)k (经济稳态增长条件)
 </center>
