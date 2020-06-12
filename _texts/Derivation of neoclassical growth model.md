@@ -42,19 +42,17 @@ author: Chen
 </center>
 
 > 稻田条件<br>
-1. y= f(k),f(0)=0 <img src="http://latex.codecogs.com/gif.latex?f\dot (k)>0"> 斜率为正,<img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减
-2.  <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
-3. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
+1. y= f(k),f(0)=0 
+2. <img src="http://latex.codecogs.com/gif.latex?f\dot (k)>0"> 斜率为正
+3. <img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减
+4. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{f\dot (k)=\infty }"> 
+5. <img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{f\dot (k)=0 }"> 
 
 ## 索洛稳态增长条件（经济呈现一种收敛式的增长）
+经济均衡时，由C+S=Y=S+I<img src="http://latex.codecogs.com/gif.latex?I=S"> 
+<img src="http://latex.codecogs.com/gif.latex?I=\Delta K+\delta K"> 
+<img src="http://latex.codecogs.com/gif.latex?\Delta K=I=\delta K=sY-\delta K"> (I=S=sY)
 
-在没有技术进步的情况下，该经济的生产函数为：
-
-<center>
-	<img src="http://latex.codecogs.com/gif.latex?Y=F(N,K)"> 
-</center>
-
-式中，*Y*为总产出；*N*和*K*分别为总量劳动和总量资本，它们均随时间的推移而变化，从而Y也随时间的推移而变化。
 
 根据生产规模报酬不变的假定，有：
 
