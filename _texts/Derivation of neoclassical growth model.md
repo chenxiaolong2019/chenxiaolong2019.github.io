@@ -38,7 +38,7 @@ author: Chen
 ### 人均收入与人均储蓄曲线
 
 <center>
-    <img src="http://chenxiaolong2019.github.io/ed/document/image/人均收入和人均储蓄曲线.png" style="zoom:20%"> 
+    <img src="http://chenxiaolong2019.github.io/ed/document/image/人均收入和人均储蓄曲线.png" style="zoom:100%"> 
 </center>
 
 > 稻田条件(Inada Conditions)<br>
@@ -73,3 +73,6 @@ author: Chen
 
 Δk＞0，人均资本在增加，经济没有稳态增长。经济稳态增长，要求Δk=0，人均资本时常数，是收敛的，有<br>
 <center><b>sy=(n+d)k<br>(经济稳态增长条件)</b></center>
+<center>
+   <img src="http://chenxiaolong2019.github.io/ed/document/image/索洛模型.png" style="zoom:100%"> 
+</center>
