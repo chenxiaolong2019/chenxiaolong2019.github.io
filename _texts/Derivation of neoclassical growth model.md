@@ -84,7 +84,7 @@ author: Chen
 <img src="http://latex.codecogs.com/gif.latex?y=y^*">
 </center>
 稳态增长条件下
-<ceter><img src="http://latex.codecogs.com/gif.latex?\frac{\Delta y}{y}=\frac{\Delta K}{K}=\frac{\Delta N}{N}=n"></center>
+<center><img src="http://latex.codecogs.com/gif.latex?\frac{\Delta y}{y}=\frac{\Delta K}{K}=\frac{\Delta N}{N}=n"></center>
 *n为人口增长率*
 <center><b>稳态经济增长率=n</b></center>
 
