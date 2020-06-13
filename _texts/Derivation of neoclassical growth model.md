@@ -45,7 +45,7 @@ author: Chen
 >> 1.y= f(k),f(0)=0 <br>
 >> 2.<img src="http://latex.codecogs.com/gif.latex?\dot{f}(k)>0"> 斜率为正<br>
 >> 3.<img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减<br>
->> 4.<img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{\dot{f}(k)=\infty }"> <br>
+>> 4.<img src="http://latex.codecogs.com/gif.latex?\lim_{k \to 0}{\dot{f}(k)=\infty }"> 
 >> 5.<img src="http://latex.codecogs.com/gif.latex?\lim_{k \to \infty}{\dot{f}(k)=0 }"> 
 
 ## 索洛稳态增长条件（经济呈现一种收敛式的增长）
