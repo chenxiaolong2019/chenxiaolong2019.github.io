@@ -68,7 +68,7 @@ author: Chen
 
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=sy-(n+\delta )k">
 <img src="http://latex.codecogs.com/gif.latex?\Delta k=0">
-<img src="http://latex.codecogs.com/gif.latex?sy=(n-\delta )k">
+<img src="http://latex.codecogs.com/gif.latex?sy=(n+\delta )k">
 **Δk=sy-(n+δ)k** &#160;是人均资本增量的决定，Δk人均资本增量，sy人均储蓄，人均储蓄要满足资本折旧的需要sk，要为新增人口投资nk，剩下的余额必会导致人均资本的增加
 
 Δk＞0，人均资本在增加，经济没有稳态增长。经济稳态增长，要求Δk=0，人均资本时常数，是收敛的，有<br>
@@ -76,3 +76,12 @@ author: Chen
 <center>
    <img src="http://chenxiaolong2019.github.io/ed/document/image/索洛模型.png" style="zoom:100%"> 
 </center>
+
+<b>当经济量稳态增长时，人均收入的增长率为0.k=k*,y=y*.人均收入增长率为0，整体经济增长率不为0，人均收入增长虽然没有发生变化，但是经济当中的人口总量增长，因此总量经济按人口总量增长来增长</b>
+<img src="http://latex.codecogs.com/gif.latex?k\Leftarrow k*">
+<img src="http://latex.codecogs.com/gif.latex?y=y*">
+稳态增长条件下
+<img src="http://latex.codecogs.com/gif.latex?\frac{\Delta y}{y}=\frac{\Delta K}{K}=\frac{\Delta N}{N}=n">
+*n为人口增长率*
+<center><b>稳态经济增长率=n</b></center>
+
