@@ -38,7 +38,7 @@ author: Chen
 ### 人均收入与人均储蓄曲线
 
 <center>
-    <img src="http://chenxiaolong2019.github.io/ed/document/image/geogebra-export.png" style="zoom:20%"> 
+    <img src="http://chenxiaolong2019.github.io/ed/document/image/人均收入和人均储蓄曲线.png" style="zoom:20%"> 
 </center>
 
 > 稻田条件(Inada Conditions)<br>
