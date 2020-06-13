@@ -41,7 +41,7 @@ author: Chen
     <img src="http://chenxiaolong2019.github.io/ed/document/image/geogebra-export.png" style="zoom:20%"> 
 </center>
 
-> 稻田条件<br>
+> 稻田条件(Inada Conditions)<br>
 1. y= f(k),f(0)=0 
 2. <img src="http://latex.codecogs.com/gif.latex?\dot{f}(k)>0"> 斜率为正
 3. <img src="http://latex.codecogs.com/gif.latex?f\ddot (k)<0"> 随着k的增加所带来的y的增量递减
