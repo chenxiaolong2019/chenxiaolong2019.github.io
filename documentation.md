@@ -40,6 +40,8 @@ author: ChenXiaolong
 
 [“72法则”的推导](http://chenxiaolong2019.github.io/ed/texts/Derivation%20of%20"72%20Law"/)
 
+[从中航油事件看期权交易](http://chenxiaolong2019.github.io/ed/texts/从中航油事件看期权交易/)
+
 ---
 
 ## Public Finance
