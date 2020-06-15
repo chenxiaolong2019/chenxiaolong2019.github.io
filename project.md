@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subjects
+title: Projects
 ---
 
 ### [Econometrics](https://en.m.wikipedia.org/wiki/Econometrics)
