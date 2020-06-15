@@ -44,7 +44,7 @@ author: ChenXiaolong
 
 [中央人民银行近一年所做的货币政策操作](http://chenxiaolong2019.github.io/ed/document/中央人民银行近一年所做的货币政策操作.pdf)
 > 附件：[中国货币政策执行报告2019年第一季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第一季度.pdf) 、[中国货币政策执行报告2019年第二季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第二季度.pdf)、[中国货币政策执行报告2019年第三季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第三季度.pdf)、[中国货币政策执行报告2019年第四季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第四季度.pdf)<br>
-> [资料来源:中央人民银行——货币政策司——货币政策执行报告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/index.html)
+> 资料来源:[中央人民银行——货币政策司——货币政策执行报告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/index.html)
 
 ---
 
