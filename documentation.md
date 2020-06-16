@@ -14,9 +14,9 @@ author: ChenXiaolong
 
 ## Microeconomics
 
-[关于近日鲜果价格大幅上涨原因的浅析](http://chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
-
 [走楼梯更快，为什么大多数人还是排队坐电梯](http://chenxiaolong2019.github.io/ed/document/走楼梯更快为什么大多数人还是排队坐电梯.pdf)
+
+[关于近日鲜果价格大幅上涨原因的浅析](http://chenxiaolong2019.github.io/ed/document/关于近日鲜果价格大幅上涨原因的浅析.pdf)
 
 ---
 
@@ -29,8 +29,6 @@ author: ChenXiaolong
 ## Marxist Political Economy
 
 [经济全球化发展的趋势](http://chenxiaolong2019.github.io/ed/document/经济全球化发展的趋势.pdf)
-
-[经济全球化带来的新问题及其解决的方法](http://chenxiaolong2019.github.io/ed/document/经济全球化带来的新问题及其解决的方法.pdf)
 
 ---
 
