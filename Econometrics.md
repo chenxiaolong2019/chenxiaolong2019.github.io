@@ -10,7 +10,7 @@ Econometrics is the application of statistical methods to economic data in order
 
 ---
 ## Data and Reports
-### [Southwestern University Of Finance And Economics](https://www.icourse163.org/course/SWUFE-1206450820)
+### *From:[Southwestern University Of Finance And Economics-Econometrics]*(https://www.icourse163.org/course/SWUFE-1206450820)
 #### 第一章 导论
 #### 第二章 经典线性回归模型
 [案例数据分析.xlsx](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/第二章 案例数据分析.xlsx)、[案例数据分析.WF1](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/第二章 案例数据分析.WF1)、[报告.pdf](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/第二章 经典线性回归 案例分析.pdf)
