@@ -1,4 +1,4 @@
 ---
 layout: page
-title: C
+title: C Programming Language
 ---
