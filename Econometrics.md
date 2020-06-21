@@ -17,6 +17,9 @@ Econometrics is the application of statistical methods to economic data in order
 #### 第三章 虚拟变量回归
 [中国石油进口量的影响因素分析数据.xlsx](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/3/中国石油进口量的影响因素分析数据.xlsx)、[案例数据分析.wf1](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/3/ch3.wf1)
 
+---
+### *From:Essentials of Econometrics (4th Edition) - Damoder N.Gujarati and Dwan C.Porter*
+
 
 
 
