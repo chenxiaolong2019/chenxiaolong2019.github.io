@@ -20,6 +20,10 @@ Econometrics is the application of statistical methods to economic data in order
 #### 第四章 多重共线性
 [网络消费影响因素分析.xlsx](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/4/ch4 -网络消费影响因素分析.xlsx)、[案例数据分析.wf1](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/4/ch4.wf1)、[报告.pdf](https://chenxiaolong2019.github.io/Econometrics/Southwestern University Of Finance And Economics/4/第四章 案例分析.pdf)
 
+#### 第五章 异方差性
+
+#### 第六章 自相关性
+
 
 ---
 ### *From:Essentials of Econometrics (4th Edition) - Damoder N.Gujarati and Dwan C.Porter*
