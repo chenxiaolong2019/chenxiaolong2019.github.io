@@ -27,6 +27,8 @@ Econometrics is the application of statistical methods to economic data in order
 
 ---
 ### *From:Essentials of Econometrics (4th Edition) - Damoder N.Gujarati and Dwan C.Porter*
+#### 第三章 双变量模型：假设检验
+3.14 [美国制造业数据.xlsx](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/美国制造业数据.xlsx)、[案例数据分析.wf1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.WFI)、[报告](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.pdf)
 
 
 
