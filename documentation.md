@@ -86,3 +86,11 @@ Calculation Form (Excel)
 - [指数分析](http://chenxiaolong2019.github.io/ed/document/Statistics/指数分析.rar)
 
 ---
+
+## Econometrics
+[Link](https://chenxiaolong2019.github.io/ed/Econometrics/)
+
+---
+
+## Time Series Analysis with R
+[时间序列分析——基于R数据.rar](http://chenxiaolong2019.github.io/Time-Series-Analysis-with-R/习题数据、案例数据、R代码.zip.zip)  [习题数据、案例数据、R代码.zip](http://chenxiaolong2019.github.io/Time-Series-Analysis-with-R/时间序列分析——基于R数据.rar.rar)
