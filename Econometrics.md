@@ -32,6 +32,9 @@ Econometrics is the application of statistical methods to economic data in order
 #### 第三章 双变量模型：假设检验
 3.14 [美国制造业数据.xlsx](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/美国制造业数据.xlsx)、[案例数据分析.wf1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.WF1)、[报告](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.pdf)
 
+#### 第四章 多元回归：估计与假设检验
+4.14[Table 4_7.xls](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/Table%204_7.xls)、[4.14.WF1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/4.14.WF1)、[4.14.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/4.14.pdf)
+
 
 
 
