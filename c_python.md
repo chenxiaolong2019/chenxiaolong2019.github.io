@@ -8,6 +8,6 @@ title: Python for Economics
 ---
 
 ## Lesson 1 (September 3, 2020)
-[Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson%201(2020.9.3).py)
-
-[Code.txt](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson1(2020.9.3)%20.txt)
+- [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson%201(2020.9.3).py)
+- [Code.txt](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson1(2020.9.3)%20.txt)
+- [Github](https://github.com/chenxiaolong2019/Python-for-Economics/blob/master/Lesson%201(2020.9.3).py)
