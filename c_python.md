@@ -20,4 +20,4 @@ title: Python for Economics
 
 ## Lesson 3 (September 5,2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson3.py)
-- [Test](chenxiaolong2019.github.io/Python-for-Economics/Lesson3_Class%20Test.py)
+- [Test](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson3_Class%20Test.py)
