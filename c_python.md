@@ -15,7 +15,7 @@ title: Python for Economics
 ## Lesson 2 (September 4, 2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson2.py)
 - [Code Github](https://github.com/chenxiaolong2019/Python-for-Economics/blob/master/Lesson2.py)
-- [Class Text](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson2_Class%20Test.py)
+- [Class Test](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson2_Class%20Test.py)
 - [Homework](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson2_homework.py)
 
 ## Lesson 3 (September 5,2020)
