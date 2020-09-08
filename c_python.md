@@ -28,3 +28,6 @@ title: Python for Economics
 
 ## Lesson 5 (September 7,2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson5.py)
+
+## Lesson 6 (September 7,2020)
+- [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson6.py)
