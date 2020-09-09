@@ -24,7 +24,7 @@ title: Python for Economics
 
 ## Lesson 4 (September 6,2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson4.py)
-- [Homework]()
+- [Homework](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson%204%20Homework.py)
 
 ## Lesson 5 (September 7,2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson5.py)
