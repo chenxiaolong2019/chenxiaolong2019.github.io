@@ -34,3 +34,6 @@ title: Python for Economics
 
 ## Lesson 7 (September 7,2020)
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson7.py)
+
+## Lesson 8 (September 7,2020)
+- [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/Lesson8.py)
