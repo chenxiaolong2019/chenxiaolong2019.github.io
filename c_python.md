@@ -48,6 +48,7 @@ Please use Python software to perform the following operations——
 1. Get the first 50 scores and corresponding short reviews of the two books "Bad Child" and "Undocumented Crime" from the "Reading" channel of "Douban";
 2. Store the reviewer’s screen name, score and short review content into files with "student name + "bad kid" + online review.csv" and "student name + "undocumented crime" + online review.csv" ；
 3. Find a suitable method to analyze the scores of the two books, interpret the analysis results, and judge whether there are differences in the reader feedback of the two books.
+
 ### Documents
 - [Code.py]()
 - [*坏小孩* data from *Douban.com*]()
