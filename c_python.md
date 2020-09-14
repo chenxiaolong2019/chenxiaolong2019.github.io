@@ -51,6 +51,6 @@ Please use Python software to perform the following operations——
 
 ### Documents
 - [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/project.py)
-- [*The Gone Child* data from *Douban.com*]()
-- [*The Untouched Crime* data from *Douban.com*]()
+- [*The Gone Child* data from *Douban.com*](https://chenxiaolong2019.github.io/Python-for-Economics/The%20Gone%20Child%20data%20from%20Douban.com.csv)
+- [*The Untouched Crime* data from *Douban.com*](ttps://chenxiaolong2019.github.io/Python-for-Economics/The%20Untouched%20Crime%20data%20from%20Douban.com.csv)
 - [Report]()
