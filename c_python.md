@@ -50,7 +50,7 @@ Please use Python software to perform the following operations——
 3. Find a suitable method to analyze the scores of the two books, interpret the analysis results, and judge whether there are differences in the reader feedback of the two books.
 
 ### Documents
-- [Code.py]()
+- [Code.py](https://chenxiaolong2019.github.io/Python-for-Economics/project.py)
 - [*The Gone Child* data from *Douban.com*]()
 - [*The Untouched Crime* data from *Douban.com*]()
 - [Report]()
