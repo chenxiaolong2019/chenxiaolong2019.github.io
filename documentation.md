@@ -102,4 +102,4 @@ Calculation Form (Excel)
 
 ---
 
-## Economic Software Application
+## Macroeconomic data analysis
