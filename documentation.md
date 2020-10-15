@@ -43,7 +43,7 @@ author: ChenXiaolong
 ## Public Finance
 [新冠疫情下,财政在稳定农产品生产中的作用](http://chenxiaolong2019.github.io/ed/document/在新冠疫情下财政在稳定农产品生产中的作用.pdf)
 
-[福建省财政收入影响因素的实证研究](http://chenxiaolong2019.github.io/ed/document/福建省财政收入影响因素的实证研究.pdf)
+[福建省财政收入影响因素的实证研究]()
 > 附件：[原始数据汇总（Ecxel文件）](http://chenxiaolong2019.github.io/ed/document/福建省财政收入影响因素的实证研究_数据汇总.xlsx)、
 [原始数据（Eviews文件）](http://chenxiaolong2019.github.io/ed/document/财政收入原始数据（未取对数）.WF1)、
 [运用EViews进行实证分析－－基于论文的计量需求](http://chenxiaolong2019.github.io/ed/document/运用EViews进行实证分析－－基于论文的计量需求%20.doc)
