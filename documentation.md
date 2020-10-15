@@ -28,8 +28,6 @@ author: ChenXiaolong
 
 ## Marxist Political Economy
 
-[经济全球化发展的趋势](http://chenxiaolong2019.github.io/ed/document/经济全球化发展的趋势.pdf)
-
 ---
 
 ## The Economics of Money
@@ -39,10 +37,6 @@ author: ChenXiaolong
 [“72法则”的推导](http://chenxiaolong2019.github.io/ed/texts/Derivation%20of%20"72%20Law"/)
 
 [从中航油事件看期权交易](http://chenxiaolong2019.github.io/ed/texts/从中航油事件看期权交易/)
-
-[中央人民银行近一年所做的货币政策操作](http://chenxiaolong2019.github.io/ed/document/中央人民银行近一年所做的货币政策操作.pdf)
-> 附件：[中国货币政策执行报告2019年第一季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第一季度.pdf) 、[中国货币政策执行报告2019年第二季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第二季度.pdf)、[中国货币政策执行报告2019年第三季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第三季度.pdf)、[中国货币政策执行报告2019年第四季度](http://chenxiaolong2019.github.io/ed/document/中国货币政策执行报告2019年第四季度.pdf)<br>
-> 资料来源:[中央人民银行——货币政策司——货币政策执行报告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/index.html)
 
 ---
 
@@ -103,3 +97,18 @@ Calculation Form (Excel)
 ---
 
 ## Macroeconomic data analysis
+Data
+
+[全国各省人均GDP与城市化率数据 2000年-2019年](http://chenxiaolong2019.github.io/ed/document/Macroeconomic%20data%20analysis/各省%20PGDP和URBR汇总.xlsx)
+
+[中国各省历年城镇化水平面板数据(城镇居民人数占总人数比例)1996-2019年](http://chenxiaolong2019.github.io/ed/document/Macroeconomic%20data%20analysis/中国各省历年城镇化水平面板数据(城镇居民人数占总人数比例).xlsx)
+
+
+[各省城镇居民人均可支配收入(1978-2019)](http://chenxiaolong2019.github.io/ed/document/Macroeconomic%20data%20analysis/各省城镇居民人均可支配收入(1978-2019).xls)
+
+[福建省城乡居民家庭人均收入-2020统计年鉴](http://chenxiaolong2019.github.io/ed/document/Macroeconomic%20data%20analysis/福建省城乡居民家庭人均收入-2020统计年鉴.xls)
+
+---
+
+## Corporate Finance
+[财务管理常用系数表1](http://chenxiaolong2019.github.io/ed/document/财务管理常用系数(实用版).pdf)、[财务管理常用系数表2](http://chenxiaolong2019.github.io/ed/document/财务管理常用系数表.docx)
