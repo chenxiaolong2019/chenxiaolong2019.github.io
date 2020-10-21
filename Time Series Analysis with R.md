@@ -10,4 +10,4 @@ title: Time Series Analysis with R
 ## Reports
 #### 第一章 时间序列分析简介
 #### 第二章 时间序列的预处理
-习题2.5 [Report](http://chenxiaolong2019.github.io/ed/times/2.5_report)
+习题2.5 [Report](http://chenxiaolong2019.github.io/ed/texts/2.5_report)
