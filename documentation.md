@@ -86,7 +86,7 @@ Calculation Form (Excel)
 
 ---
 
-## Time Series Analysis with R
+## [Time Series Analysis with R](https://chenxiaolong2019.github.io/ed/Time%20Series%20Analysis%20with%20R/)
 [时间序列分析——基于R数据.rar](http://chenxiaolong2019.github.io/Time-Series-Analysis-with-R/习题数据、案例数据、R代码.zip.zip)、[习题数据、案例数据、R代码.zip](http://chenxiaolong2019.github.io/Time-Series-Analysis-with-R/时间序列分析——基于R数据.rar.rar)
 
 ---
