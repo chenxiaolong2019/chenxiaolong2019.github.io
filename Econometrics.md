@@ -28,6 +28,8 @@ Econometrics is the application of statistical methods to economic data in order
 ---
 ### *From:Essentials of Econometrics (4th Edition) - Damoder N.Gujarati and Dwan C.Porter*
 [《经济计量学精要》 网上数据库](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/经济计量学精要%20网上数据库.rar)
+#### 第二章 线性回归的基本思想：双变量模型
+2.14 [Report.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/2/2.14.pdf)
 
 #### 第三章 双变量模型：假设检验
 3.14 [美国制造业数据.xlsx](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/美国制造业数据.xlsx)、[案例数据分析.wf1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.WF1)、[报告](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/3/3.14.pdf)
