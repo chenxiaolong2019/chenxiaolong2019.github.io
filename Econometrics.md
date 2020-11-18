@@ -38,7 +38,8 @@ Econometrics is the application of statistical methods to economic data in order
 4.14[Table 4_7.xls](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/Table%204_7.xls)、[4.14.WF1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/4.14.WF1)、[4.14.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/4/4.14/4.14.pdf)
 
 #### 第五章 回归模型的函数形式
-
+[5.25.WF1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/5/5.25.WF1)
+[5.25.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/5/5.25.pdf)
 
 
 
