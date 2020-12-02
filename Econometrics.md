@@ -41,6 +41,12 @@ Econometrics is the application of statistical methods to economic data in order
 [5.25.WF1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/5/5.25.WF1)
 [5.25.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/5/5.25.pdf)
 
+#### 第六章 虚拟变量回归模型
+[Test]()
+
+#### 第七章 模型选择：标准与检验
+[7.17.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/7/7.17.pdf)
+
 
 
 
