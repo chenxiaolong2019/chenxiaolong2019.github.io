@@ -47,6 +47,8 @@ Econometrics is the application of statistical methods to economic data in order
 #### 第七章 模型选择：标准与检验
 [7.17.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/7/7.17.pdf)
 
-
+#### 第八章 多重共线性：解释变量相关会有什么后果
+[8.20.pdf](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/8/8.20.pdf)
+[8.20.wf1](https://chenxiaolong2019.github.io/Econometrics/Essentials%20of%20Econometrics/8/8.30.wf1)
 
 
