@@ -5,7 +5,7 @@ title: 2021年全国大学生数据统计与分析竞赛
 [*Github*](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/)
 
 ## [2021年全国大学生数据统计与分析竞赛赛题](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition//2021年全国大学生数据统计与分析竞赛赛题.zip)
-## [*原始数据 A题*](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/A题.docx)
+## [*原始数据 A题*](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/A题.pdf)
 
 *平台：Anaconda*
 
