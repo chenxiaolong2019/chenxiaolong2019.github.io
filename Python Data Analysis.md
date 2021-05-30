@@ -25,7 +25,7 @@ title: 2021年全国大学生数据统计与分析竞赛
 
 ## **结果**
 ### [分词和删除停用词](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type7_prop7_汇总_停用词处理后.txt)
-### [论文评论观点抽取]
+### 论文评论观点抽取
 > [type=11(生活)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type11.xlsx)
 > [type=7(教育)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type7.xlsx)
 
