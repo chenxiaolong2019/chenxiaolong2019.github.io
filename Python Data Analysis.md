@@ -24,11 +24,12 @@ title: 2021年全国大学生数据统计与分析竞赛
 ### [云图](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/云图.py)
 
 ## **结果**
-### [分词和删除停用词](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
-### [论文评论观点抽取](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
-> [type=11(生活)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
-> [type=7(教育)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
+### [分词和删除停用词](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type7_prop7_汇总_停用词处理后.txt)
+### [论文评论观点抽取]
+> [type=11(生活)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type11.xlsx)
+> [type=7(教育)](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/type7.xlsx)
 
-### [情感倾向性分析](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
-### [评语特征值](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
-### [评语情感字典](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result)
+### [情感倾向性分析](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/情感倾向性分析.csv)
+### [评语特征值](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/特征值_type7_prop7_汇总.csv)
+### [评语情感字典](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/情感词典_type7.docx)
+### [云图（词频图）](https://chenxiaolong2019.github.io/Data-Statistics-and-Analysis-Competition/result/Figure_1.png)
