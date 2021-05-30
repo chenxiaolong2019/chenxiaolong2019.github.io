@@ -14,7 +14,7 @@ title: 2021年全国大学生数据统计与分析竞赛
 
 ## [原始数据 A题](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/A题.docx)
 
-## 代码
+## **代码**
 ### [分词和删除停用词](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/分词和删除停用词.py)
 ### [论文评论观点抽取](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/论文评论观点抽取.py)
 ### [情感倾向性分析](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/情感倾向性分析.py)
@@ -22,11 +22,11 @@ title: 2021年全国大学生数据统计与分析竞赛
 ### [优秀论文——评论观点抽取](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/优秀论文——评论观点抽取.py)
 ### [云图](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/云图.py)
 
-## 结果
+## **结果**
 ### [分词和删除停用词](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [论文评论观点抽取](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
-#### [type=11(生活)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
-#### [type=7(教育)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
+#### >[type=11(生活)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
+#### >[type=7(教育)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [情感倾向性分析](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [评语特征值](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [评语情感字典](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
