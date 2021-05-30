@@ -4,14 +4,14 @@ title: 2021年全国大学生数据统计与分析竞赛
 ---
 [*Github*](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition)
 
-## [*2021年全国大学生数据统计与分析竞赛赛题*](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/2021年全国大学生数据统计与分析竞赛赛题.zip)
-## [原始数据 A题](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/A题.docx)
+## [2021年全国大学生数据统计与分析竞赛赛题](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/2021年全国大学生数据统计与分析竞赛赛题.zip)
+## [*原始数据 A题*](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/A题.docx)
 
-平台：Anaconda
+*平台：Anaconda*
 
-语言：Python
+*语言：Python*
 
-[NLP-Python-SDK*百度自然语言处理服务 Python SDK文档*](https://ai.baidu.com/ai-doc/NLP/tk6z52b9z)
+[*NLP-Python-SDK 百度自然语言处理服务 Python SDK文档*](https://ai.baidu.com/ai-doc/NLP/tk6z52b9z)
 
 ---
 
@@ -28,6 +28,7 @@ title: 2021年全国大学生数据统计与分析竞赛
 ### [论文评论观点抽取](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 > [type=11(生活)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 > [type=7(教育)](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
+
 ### [情感倾向性分析](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [评语特征值](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
 ### [评语情感字典](https://github.com/chenxiaolong2019/Data-Statistics-and-Analysis-Competition/result)
