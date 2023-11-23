@@ -10,19 +10,15 @@ title: About
 
 <hr>
 
-## Personal information
+## 姓名: 陈小龙
 
-- Name: Chen Xiaolong
+## 教育经历
 
-- Degree: Undergraduate
-
-- School: North China Institute Of Aerospace Engineering
-
-- Department：School of Economics and Management
-
-- Profession：Economics
-
-- QQ: 358657161
+- 本科: 北华航天工业学院（2018-2022）经济学专业 获经济学学士学位
+- 研究生：江西财经大学（2023-至今） 攻读金融专业硕士
+  
+## 联系方式
+- 邮箱: xiaolong_2023@163.com
 
 <hr>
 
